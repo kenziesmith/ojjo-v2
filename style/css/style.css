@@ -117,9 +117,6 @@
 }
 /* MEDIA */
 @media (max-width: 1110px) {
-    .first-screen {
-        min-height: 650px;
-    }
     .first-screen__content {
         margin-top: 250px;
     }
